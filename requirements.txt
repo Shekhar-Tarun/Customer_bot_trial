@@ -1,0 +1,7 @@
+streamlit
+huggingface_hub
+sentence-transformers
+torch
+torchvision
+transformers
+accelerate
